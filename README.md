@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/ahmedazab1235/Desktop/blob/master/github/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c89ecd95.2067324515339931606505.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/ahmedazab1235/ahmedazab1235/blob/master/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c89ecd95.2067324515339931606505.png" />
 
 
 <br />
