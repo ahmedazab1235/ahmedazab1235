@@ -4,7 +4,7 @@
 
 - 🔭 I am an ITI student
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: learning more and more and making more projects
+- 🥅 2021 Goals: learning more and more and making more projects
 - ⚡ Fun fact: I love to eating and play chess
 
 
