@@ -5,7 +5,7 @@
 - 🔭 I am an ITI student
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: learning more and more and making more projects
-- ⚡ Fun fact: I love to eating and play chess
+- ⚡ Fun fact: I love eating and play chess
 
 
 ### Connect with me:
