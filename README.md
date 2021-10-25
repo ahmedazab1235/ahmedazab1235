@@ -2,10 +2,8 @@
 
 ## I'm a AI / ML Engineer also a data scientist
 
-- 🔭 I am an ITI student
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: learning more and more and making more projects
-- ⚡ Fun fact: I love eating and playing chess
+- 🔭 I am an ITIain
+
 
 
 ### Connect with me:
