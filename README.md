@@ -1,6 +1,7 @@
 ### Hi there, I'm Ahmed Azab :smiley: [Linkedin][linkedin] 👋
 
-## I'm a AI / ML Engineer also a data scientist
+## I'm a Data Engineer | Data scientist | MSc Student at Faculty of Engineering
+
 
 - 🔭 I am an ITIain
 
